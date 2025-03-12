@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Projecto de prueba.sln"
+    "dotnet.defaultSolution": "RepositorioPrueba.sln"
 }
